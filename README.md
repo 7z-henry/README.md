@@ -1,17 +1,50 @@
 ![Header](./header.png)
 
-## roc4et.de
-<img src="https://komarev.com/ghpvc/?username=roc4et&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/roc4et" alt="Profile Stars"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/roc4et" alt="Profile Forks"></a>
+# Hi there, I'm **roc4et** 👋
 
-##
-<a href="https://roc4et.de/" target="_blank"> <img src="https://discord.c99.nl/widget/theme-4/1186342290323677215.png"/></a>
-##
-</a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roc4et&count_private=true&hide=procfile&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most%20Used%20Coding%20Languages" alt="roc4et" /></p>
+## 🌐 Socials:
+
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://roc4et.de/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PaqNwRxgu4)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/roc4et)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@roc4et)
+[![GitHub Followers](https://img.shields.io/github/followers/roc4et?color=008042&label=GitHub%20Followers&logo=GitHub&style=for-the-badge)](https://github.com/roc4et)
+
+
+## 🧰 Languages and Tools:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=roc4et&title_color=674fc9&text_color=c94f53&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,html,css,git,github" />
 </p>
+
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roc4et&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roc4et&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
+</p>
+
+
+## 📫 Discord Profile:
+
+<a href="https://discord.c99.nl/widget/theme-4/1186342290323677215.png">
+  <img src="https://discord.c99.nl/widget/theme-4/1186342290323677215.png" alt="Discord Profile" />
+</a>
+
+## 🌟 Top Repositories:
+
+<p align="center">
+  <a href="https://github.com/roc4et/your-top-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=roc4et&repo=roc4etx&theme=radical" />
+  </a>
+  <a href="https://github.com/roc4et/another-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=roc4et&repo=saturn-2auth&theme=radical" />
+  </a>
+</p>
+
+## 📈 Visitor Count:
+
+![Visitors](https://komarev.com/ghpvc/?username=roc4et&label=Visitors&color=0e75b6&style=flat)
 
 ![Footer](./footer.png)
