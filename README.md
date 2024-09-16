@@ -28,9 +28,9 @@
 
 ## 📫 Discord Profile:
 
-<a href="https://discord.c99.nl/widget/theme-4/1186342290323677215.png">
+<p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/1186342290323677215.png" alt="Discord Profile" />
-</a>
+<p>
 
 ## 🌟 Top Repositories:
 
