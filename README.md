@@ -35,11 +35,8 @@
 ## 🌟 Top Repositories:
 
 <p align="center">
-  <a href="https://github.com/roc4et/your-top-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=roc4et&repo=roc4etx&theme=radical" />
-  </a>
-  <a href="https://github.com/roc4et/another-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=roc4et&repo=saturn-2auth&theme=radical" />
+  <a href="https://github.com/roc4et/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=roc4et&repo=telegram-downloader&theme=radical" />
   </a>
 </p>
 
