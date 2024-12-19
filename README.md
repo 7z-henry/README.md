@@ -1,7 +1,6 @@
 ![Header](./header.png)
 
 # Hi there, I'm **roc4et** 👋
-https://gofile.io/d/QiMvTu
 
 ## 🌐 Socials:
 
